@@ -1,9 +1,4 @@
-// git init
-// git add .
-// git commit -m "Primer commit API Rest Express"
-// git remote add origin [url]
-// git push origin main
-// heroku login
+// https://api-rest-express2.herokuapp.com/
 
 const debug = require("debug")("app:inicio")
 // const dbDebug = require("debug")("app:db")
